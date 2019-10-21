@@ -1,0 +1,30 @@
+[
+  {
+    "Hcard": "Gros-Debile"
+  },
+  {
+    "Hcard": "BOUC-PC",
+    "Score": 78.62370300292969,
+    "parent": "Gros-Debile"
+  },
+  {
+    "Hcard": "LAPTOP-666",
+    "Score": 72.06866455078125,
+    "parent": "Gros-Debile"
+  },
+  {
+    "Hcard": "FOOT2RUE",
+    "Score": 58.119056701660156,
+    "parent": "Gros-Debile"
+  },
+  {
+    "Hcard": "PC-LUNDI",
+    "Score": 51.49863815307617,
+    "parent": "Gros-Debile"
+  },
+  {
+    "Hcard": "DESKTOP-9898",
+    "Score": 24.060922622680664,
+    "parent": "Gros-Debile"
+  }
+]
